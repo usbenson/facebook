@@ -1,0 +1,2 @@
+users can have profile pictures
+users can have about section
